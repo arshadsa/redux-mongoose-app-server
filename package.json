@@ -1,0 +1,26 @@
+{
+  "name": "redux-mongoose-app-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshadsa/redux-mongoose-app-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arshadsa/redux-mongoose-app-server/issues"
+  },
+  "homepage": "https://github.com/arshadsa/redux-mongoose-app-server#readme",
+  "dependencies": {
+    "mongoose": "^6.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
